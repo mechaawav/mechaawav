@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/110058177/221228580-f8e7823c-519d-423f-b6f7-dac69e4299df.png)
+
 # 👋¡Hola, soy Mercedes!
 ## A Full Stack Developer from Argentina 💻 
  
