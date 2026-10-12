@@ -7,7 +7,6 @@
  
 ## Stay in touch! 📲 
 - Gmail: mecarabajal13@gmail.com 
-- Instagram: https://instagram.com/mechaa.wav?igshid=YmMyMTA2M2Y=
 
 <!---
 mechaawav/mechaawav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
